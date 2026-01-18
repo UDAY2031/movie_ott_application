@@ -34,10 +34,6 @@ The application allows users to browse popular movies, search for titles, view d
 git clone https://github.com/UDAY2031/movie_ott_application.git 
 cd movie_ott_application
 ```
-### Switch to UI Redesign Branch
-```
-git checkout ui-redesign
-```
 ### Install Dependencies
 ```
 flutter pub get
