@@ -7,7 +7,6 @@ The application allows users to browse popular movies, search for titles, view d
 
 ## Submission Guidelines Compliance
 
-- The project is shared via GitHub
 - A complete README is provided with:
   - Setup instructions
   - Steps to run the assignment locally
