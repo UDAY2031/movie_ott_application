@@ -47,7 +47,7 @@ class MyApp extends StatelessWidget {
           elevation: 8,
           type: BottomNavigationBarType.fixed,
         ),
-        cardTheme: CardTheme(
+        cardTheme: CardThemeData(
           color: Colors.white,
           elevation: 2,
           shadowColor: Colors.black.withOpacity(0.1),
